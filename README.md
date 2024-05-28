@@ -1,4 +1,5 @@
 # BookMonoRepo
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+
+1). cd bookmonorepo
+2). npm install
+3). npm start
+4). Open Browser On Search Bar http://localhost:3000/
+>>>>>>> 31f79650bda31ac064c7e9ca807f3c80a2f6009a
